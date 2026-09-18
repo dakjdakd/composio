@@ -12,6 +12,7 @@
     "crewai",
     "llamaindex",
     "mastra",
+    "typesafe",
     "custom-providers",
     "..."
   ]
